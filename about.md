@@ -1,4 +1,5 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
-
+ee佬，社畜，业余无线电爱好者（已设置B类业余无线电台），垃圾佬，
+喜欢挖坑，折腾各种东西
+更喜欢挖一半不填
